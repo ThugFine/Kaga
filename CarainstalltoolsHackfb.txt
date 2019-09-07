@@ -1,0 +1,30 @@
+TUTOR INSTALL TOOLS HACK FB PRO
+BY MRLINKERRORSYSTEM
+
+extrak dulu filenya di taruh di folder penyimpanan internal cuy
+
+$ pkg update && pkg upgrade 
+$ pkg install python 
+$ pkg install python2 
+$ pkg install git 
+$ cd /sdcard/hackfbterbaru
+$ ls 
+$ cd hackfbterbaru 
+$ ls 
+$ cd hackfbterbaru-master 
+$ ls 
+$ python2 drakfbnew.py
+
+TERUS INI MASUKAN USER DAN PWNYA
+salin saja OKE tot
+
+pantek12345
+pantek12345
+
+done  tinggal login saja fb lu COK
+awas cekpoints SAYA saran kan jangan tuman
+dan SAYA sarankan Login fb lu dulu di OPERMINI cok ok
+
+SCRIPT FREE BULAN INI cekpoints jangan salah SAYA gelut saja OKE
+
+kurang faham chat admin ganas 081249281196
